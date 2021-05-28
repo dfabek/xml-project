@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSGOMaps>
+    <Ancient>
+        <Creator>Valve</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>GIGN</CounterTerrorists>
+        <Terrorists>Elite Crew</Terrorists>
+        <Theme>Rainforest</Theme>
+        <Location>Brazil</Location>
+    </Ancient>
+
+    <DustII>
+        <Creator>Valve</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>IDF</CounterTerrorists>
+        <Terrorists>Elite Crew</Terrorists>
+        <Theme>Desert</Theme>
+        <Location>Morocco</Location>
+    </DustII>
+    
+    <Inferno>
+        <Creator>Valve</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>SAS</CounterTerrorists>
+        <Terrorists>Separatist</Terrorists>
+        <Theme>Urban</Theme>
+        <Location>Italy</Location>
+    </Inferno>
+    
+    <Mirage>
+        <Creator>Valve</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>SAS</CounterTerrorists>
+        <Terrorists>Elite Crew</Terrorists>
+        <Theme>Suburban</Theme>
+        <Location>Morocco</Location>
+    </Mirage>
+    
+    <Nuke>
+        <Creator>Valve</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>FBI</CounterTerrorists>
+        <Terrorists>Phoenix</Terrorists>
+        <Theme>Industrial</Theme>
+        <Location>Northeastern United States</Location>
+    </Nuke>
+
+    <Overpass>
+        <Creator>Valve</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>GSG9</CounterTerrorists>
+        <Terrorists>Phoenix</Terrorists>
+        <Theme>Urban</Theme>
+        <Location>Berlin</Location>
+    </Overpass>
+
+    <Vertigo>
+        <Creator>Chris "Narby" Auty; Valve</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>FBI</CounterTerrorists>
+        <Terrorists>Professionals</Terrorists>
+        <Theme>Urban</Theme>
+        <Location>United States</Location>
+    </Vertigo>
+
+    <Cache>
+        <Creator>FMPONE, Volcano, and penE</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>GIGN</CounterTerrorists>
+        <Terrorists>Phoenix</Terrorists>
+        <Theme>Industrial</Theme>
+        <Location>Chernobyl</Location>
+    </Cache>
+    
+    <Train>
+        <Creator>Valve</Creator>
+        <Scenario>Bomb defusal</Scenario>
+        <CounterTerrorists>SEAL Team 6</CounterTerrorists>
+        <Terrorists>Balkan</Terrorists>
+        <Theme>Industrial</Theme>
+        <Location>Russia</Location>
+    </Train>
+
+    <Agency>
+        <Creator>Puddy and Rick</Creator>
+        <Scenario>Hostage rescue</Scenario>
+        <CounterTerrorists>FBI</CounterTerrorists>
+        <Terrorists>Professional</Terrorists>
+        <Theme>Modern</Theme>
+        <Location>United States</Location>
+    </Agency>
+
+    <Assault>
+        <Creator>Lari Muuriaisniemi, Valve</Creator>
+        <Scenario>Hostage rescue</Scenario>
+        <CounterTerrorists>FBI</CounterTerrorists>
+        <Terrorists>Phoenix</Terrorists>
+        <Theme>Urban</Theme>
+        <Location>Belmont Avenue, Chicago, United States</Location>
+    </Assault>
+    
+    <Italy>
+        <Creator>Valve</Creator>
+        <Scenario>Hostage rescue</Scenario>
+        <CounterTerrorists>GIGN</CounterTerrorists>
+        <Terrorists>Separatist</Terrorists>
+        <Theme>Urban</Theme>
+        <Location>Italy</Location>
+    </Italy>
+
+    <Militia>
+        <Creator>Valve</Creator>
+        <Scenario>Hostage rescue</Scenario>
+        <CounterTerrorists>FBI</CounterTerrorists>
+        <Terrorists>Phoenix</Terrorists>
+        <Theme>Urban</Theme>
+        <Location>United States</Location>
+    </Militia>
+
+    <Office>
+        <Creator>Valve</Creator>
+        <Scenario>Hostage rescue</Scenario>
+        <CounterTerrorists>FBI</CounterTerrorists>
+        <Terrorists>Anarchists</Terrorists>
+        <Theme>Urban</Theme>
+        <Location>United States</Location>
+    </Office>
+</CSGOMaps>
